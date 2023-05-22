@@ -1,2 +1,2 @@
 # Pythoon-Basics
-Basic Introduction to python
+Introduction to python
